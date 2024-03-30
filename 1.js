@@ -8,4 +8,4 @@ fetch('https://discord.com/api/webhooks/1223442391743070350/qenuh9PwwwOBCfp_dCrr
         content: 'Hello, World!',
         username: 'NEVA EVA BE A NEGA.'
     })
-})
+});
